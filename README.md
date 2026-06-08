@@ -1,3 +1,49 @@
+#OUTPUT-> 
+
+Starting Network Sniffer...
+
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------
+Source IP      : 52.178.17.2
+Destination IP : 10.142.90.71
+Protocol       : 6
+----------------------------------------
+Source IP      : 52.178.17.2
+Destination IP : 10.142.90.71
+Protocol       : 6
+----------------------------------------
+Source IP      : 52.178.17.2
+Destination IP : 10.142.90.71
+Protocol       : 6
+----------------------------------------
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------
+Source IP      : 52.178.17.2
+Destination IP : 10.142.90.71
+Protocol       : 6
+----------------------------------------
+Source IP      : 10.142.90.71
+Destination IP : 52.178.17.2
+Protocol       : 6
+----------------------------------------                                                                                                                                                                                                                        
+
+
 # Basic-Network-Sniffer
  
 
