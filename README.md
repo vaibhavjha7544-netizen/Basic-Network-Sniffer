@@ -59,4 +59,4 @@ Purpose of the Code
 -> To learn how packet sniffing works.
 -> To identify source and destination IP addresses.
 -> To understand different network protocols.
-->To build a foundation for network analysis and cybersecurity projects.<img width="736" height="1308" alt="WhatsApp Image 2026-03-15 at 10 51 47" src="https://github.com/user-attachments/assets/816dec31-ad37-4ff1-8a9f-e146c9dea527" />
+->To build a foundation for network analysis and cybersecurity projects.
